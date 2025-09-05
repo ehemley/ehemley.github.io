@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description:
 nav: true
-nav_order: 6
+nav_order: 3
 ---
 
 **MATH 1610 Honors Calculus**
