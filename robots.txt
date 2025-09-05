@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://ehemley.github.io/sitemap.xml
