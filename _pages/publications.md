@@ -22,4 +22,4 @@ nav_order: 2
 
 **[The Gauss-Manin connection via the de Rham space](../assets/pdf/dR.pdf)**. Provides a construction of a canonical flat connection on relative de Rham cohomology from base change for de Rham spaces.
 
- **[Thomason-Trobaugh localization](../assets/pdf/TT.pdf)**. For a talk in the [Penn Kan Seminar](https://www2.math.upenn.edu/~mmerling/math619_25.html) 
+ **[Thomason-Trobaugh localization](../assets/pdf/TT.pdf)**. For a talk in the [Penn Kan Seminar](https://www2.math.upenn.edu/~mmerling/math619_25.html).
