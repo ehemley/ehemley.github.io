@@ -7,6 +7,7 @@ nav: true
 nav_order: 2
 ---
 
+
 ## Publications
 
 **Complex single-site magnetism and magnetotransport in single-crystalline Gd₂AlSi₃**  
@@ -19,7 +20,6 @@ nav_order: 2
 
 ## Notes
 
-**[Thomason-Trobaugh Localization](../assets/pdf/dR.pdf)**, for a talk in the 
+**[The Gauss-Manin connection via the de Rham space](../assets/pdf/dR.pdf)**. Provides a construction of a canonical connection on relative de Rham cohomology from base change for de Rham stacks.
 
-
-**[Thomason-Trobaugh Localization](../assets/pdf/TT.pdf)**, for a talk in the [Penn Kan Seminar](https://www2.math.upenn.edu/~mmerling/math619_25.html) 
+ **[Thomason-Trobaugh localization](../assets/pdf/TT.pdf)**. For a talk in the [Penn Kan Seminar](https://www2.math.upenn.edu/~mmerling/math619_25.html) 
