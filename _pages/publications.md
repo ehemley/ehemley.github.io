@@ -19,4 +19,7 @@ nav_order: 2
 
 ## Notes
 
+**[Thomason-Trobaugh Localization](../assets/pdf/dR.pdf)**, for a talk in the 
+
+
 **[Thomason-Trobaugh Localization](../assets/pdf/TT.pdf)**, for a talk in the [Penn Kan Seminar](https://www2.math.upenn.edu/~mmerling/math619_25.html) 
