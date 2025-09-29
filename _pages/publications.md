@@ -12,11 +12,12 @@ nav_order: 2
 
 * **Complex single-site magnetism and magnetotransport in single-crystalline Gd₂AlSi₃**  
 *Ram Kumar* et al.,
-*Phys. Rev. B*, [PDF](https://journals.aps.org/prb/pdf/10.1103/1sc3-6cfp)
+*Phys. Rev. B*,
+[arXiv:2506.14687](https://arxiv.org/abs/2506.14687)
 
 * **Growth and Characterization of Pure and Doped Topological Material CoSi**  
 *E. Hemley* et al.,
-*APS March Meeting Abstracts*, [PDF](https://meetings.aps.org/Meeting/MAR22/Session/Q70.5)
+*APS March Meeting Abstracts*, [2022APS..MARQ70005H](https://ui.adsabs.harvard.edu/abs/2022APS..MARQ70005H/abstract)
 
 ## Notes
 
