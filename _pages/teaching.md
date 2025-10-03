@@ -8,5 +8,6 @@ nav_order: 3
 ---
 
 **MATH 1610 Honors Calculus**
+*Professor Herman Gluck*
 
-My office hours are Monday-Tuesday 2-3 pm in DRL 3N2C.
+My office hours are Wednesday 6-7 pm and Thursday 2-3 pm in DRL 3N2C.
