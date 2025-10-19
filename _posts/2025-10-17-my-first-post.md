@@ -6,7 +6,7 @@ description: A blog post with LaTeX equations
 tags: math research
 ---
 
-The number 12 emerges in several striking contexts in the theory of elliptic curves. In this post, I explain how a couple of this instances are related to the weight of the modular discriminant.
+The number 12 emerges in several striking contexts in the theory of elliptic curves. In this post, I will explain how a couple of these instances are related to the weight of the modular discriminant.
 
 ## The modular discriminant
 
