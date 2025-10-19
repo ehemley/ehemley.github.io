@@ -50,6 +50,8 @@ $$
 
 we see that $$\Omega_{\mathcal{M}_{\text{ell}}} \cong \Omega_{\overline{\mathcal{M}}_{\text{ell}}}(\log \infty) = \lambda^{\otimes 2}$$.
 
+This allows us to deduce a special case of the Harer-Zagier formula, which relates the orbifold Euler characteristic of the moduli stack of genus $g$ curves with a base point to the special values of the Riemann-Zeta function: $$ \chi(\mathcal{M}_{g,1}) = \zeta(1-2g)$$.
+
 **Proposition.** The Euler characteristic $$\chi(\mathcal{M}_{\text{ell}})$$ is equal to $$-\frac{1}{12}$$.
 
 *Proof.* For a smooth complex Deligne–Mumford curve $$U$$ with smooth compactification $$X$$ and boundary $$D$$, the orbifold Euler characteristic satisfies
@@ -74,10 +76,9 @@ $$
 
 in the Chow ring of the moduli space of stable curves $$\overline{\mathcal{M}}_{g}$$.
 
+The weight $\Delta$ also shows up in the theory of elliptic surfaces.
 
-Let $$f: X \to \mathbb{P}^1$$ be a rational elliptic surface.
-
-**Proposition.** The number of singular fibers of $$f$$, counted with multiplicity, is 12.
+**Proposition.** Let $$f: X \to \mathbb{P}^1$$ be a rational elliptic surface. The number of singular fibers of $$f$$, counted with multiplicity, is 12.
 
 *Proof.* Let $$\phi: \mathbb{P}^1 \to \overline{\mathcal{M}}_{\text{ell}}$$ be the classifying map and define $$\lambda_f := f_* \Omega_{X/\mathbb{P}^1}$$, and note $$\lambda_f \cong \phi^* \lambda$$. Then $$\Delta_f := \phi^* \Delta$$ is a section of $$\lambda_f^{\otimes 12}$$ which vanishes at the points in $$\mathbb{P}^1$$ whose fibers are singular. Therefore
 
@@ -93,7 +94,7 @@ $$
 \chi(\mathcal{O}_X) = \deg \lambda_f
 $$
 
-(*So that there is no confusion, here the Euler characteristic is the traditional alternating sum of Betti numbers.*) Weierstrass fibrations $$f: X \to C$$ are equivalent to smooth, minimal, elliptic surfaces over $$C$$ with a section. But since $$X$$ is a rational surface, $$\chi(\mathcal{O}_X) = 1$$. ∎
+(*So that there is no confusion, here the Euler characteristic is the traditional alternating sum of Betti numbers.*) Weierstrass fibrations $$f: X \to C$$ are equivalent to smooth, minimal, elliptic surfaces over $$C$$ with a section. Since $$X$$ is a rational surface, $$\chi(\mathcal{O}_X) = 1$$. ∎
 
 <hr style="margin-top: 2rem;">
 
