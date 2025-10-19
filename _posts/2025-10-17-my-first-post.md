@@ -48,7 +48,7 @@ $$
 H^1(E,\mathcal{T}_E)^\vee \cong H^0(E, \Omega_E^{\otimes 2})
 $$
 
-we see that $$\Omega_{\mathcal{M}_{\text{ell}}} \cong \Omega_{\overline{\mathcal{M}}_{\text{ell}}}(\infty) = \lambda^{\otimes 2}$$.
+we see that $$\Omega_{\mathcal{M}_{\text{ell}}} \cong \Omega_{\overline{\mathcal{M}}_{\text{ell}}}(\log \infty) = \lambda^{\otimes 2}$$.
 
 **Proposition.** The Euler characteristic $$\chi(\mathcal{M}_{\text{ell}})$$ is equal to $$-\frac{1}{12}$$.
 
