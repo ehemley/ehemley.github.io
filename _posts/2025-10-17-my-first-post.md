@@ -52,7 +52,7 @@ $$
 \chi(\mathcal{M}_{\text{ell}}) = - \frac{\deg(\Omega_{\mathcal{M}_{\text{ell}}})}{2}
 $$
 
-and applying $\deg (\Omega_{\mathcal{M}_{\text{ell}}}) = 2 \deg \omega$. ∎
+and using $\deg (\Omega_{\mathcal{M}_{\text{ell}}}) = 2 \deg \omega$. ∎
 
 
 **Proposition.** Let $$f: X \to \mathbb{P}^1$$ be a rational elliptic surface. The number of singular fibers of $f$, counted with multiplicity, is 12.
