@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-blog",
+          title: "blog",
+          description: "A collection of my thoughts and writings",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/blog/";
+          },
         },{id: "nav-teaching",
           title: "teaching",
           description: "",
@@ -30,7 +37,23 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/travel/";
           },
-        },{
+        },{id: "post-the-magic-of-12",
+        
+          title: "The magic of 12",
+        
+        description: "A blog post with LaTeX equations",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/my-first-post/";
+          
+        },
+      },{id: "books-the-godfather",
+          title: 'The Godfather',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_godfather/";
+            },},{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
