@@ -22,7 +22,7 @@ To understand this geometrically, we can interpret modular forms via the moduli 
 
 **Lemma.** A global section of $$\lambda^{\otimes k}$$ is a weight $$k$$ modular form.
 
-The remarkable fact is that $$\Delta$$ has no zeroes on $$\mathfrak{H}$$, and thus gives a trivialization $$\lambda^{\otimes 12} \cong \mathcal{O}_{\mathcal{M}_{\text{ell}}}$$. On the compactified moduli stack $$\overline{\mathcal{M}}_{\text{ell}}$$, the discriminant $$\Delta$$ has a cusp at the point $$\infty$$ corresponding to the nodal cubic $$y^2 = x^3 - x^2$$. Hence
+The remarkable fact is that $$\Delta$$ has no zeros on $$\mathfrak{H}$$, and thus gives a trivialization $$\lambda^{\otimes 12} \cong \mathcal{O}_{\mathcal{M}_{\text{ell}}}$$. On the compactified moduli stack $$\overline{\mathcal{M}}_{\text{ell}}$$, the discriminant $$\Delta$$ has a cusp at the point $$\infty$$ corresponding to the nodal cubic $$y^2 = x^3 - x^2$$. Hence
 
 $$
 \lambda^{\otimes 12} \cong \mathcal{O}_{\overline{\mathcal{M}}_{\text{ell}}}(\infty)
@@ -50,7 +50,7 @@ $$
 
 we see that $$\Omega_{\mathcal{M}_{\text{ell}}} \cong \Omega_{\overline{\mathcal{M}}_{\text{ell}}}(\log \infty) = \lambda^{\otimes 2}$$.
 
-This allows us to deduce a special case of the *Harer-Zagier formula*, which relates the orbifold Euler characteristic of the moduli stack of genus $g$ curves with a base point to the special values of the Riemann-Zeta function: $$ \chi(\mathcal{M}_{g,1}) = \zeta(1-2g)$$.
+This allows us to deduce a special case of the *Harer-Zagier formula*, which relates the orbifold Euler characteristic of the moduli stack of genus $g$ curves with a base point to the special values of the Riemann zeta function: $$ \chi(\mathcal{M}_{g,1}) = \zeta(1-2g)$$.
 
 **Proposition.** The Euler characteristic $$\chi(\mathcal{M}_{\text{ell}})$$ is equal to $$-\frac{1}{12}$$.
 
@@ -76,7 +76,7 @@ $$
 
 in the Chow ring of the moduli space of stable curves $$\overline{\mathcal{M}}_{g}$$.
 
-The weight $\Delta$ also shows up in the theory of elliptic surfaces.
+The weight of $\Delta$ also shows up in the theory of elliptic surfaces.
 
 **Proposition.** Let $$f: X \to \mathbb{P}^1$$ be a rational elliptic surface. The number of singular fibers of $$f$$, counted with multiplicity, is 12.
 
