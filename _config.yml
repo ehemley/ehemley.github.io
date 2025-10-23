@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Emerson
-middle_name: 
+middle_name:
 last_name: Hemley
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
@@ -202,12 +202,12 @@ keep_files:
 
 # Plug-ins
 plugins:
-#  - jekyll-archives-v2
+  #  - jekyll-archives-v2
   - jekyll-email-protect
   - jekyll-feed
   - jekyll-get-json
   - jekyll-imagemagick
-#  - jekyll-jupyter-notebook
+  #  - jekyll-jupyter-notebook
   - jekyll-link-attributes
   - jekyll-minifier
   - jekyll-paginate-v2
@@ -257,8 +257,8 @@ terser:
 #      year: "/blog/:year/"
 #      tags: "/blog/:type/:name/"
 #      categories: "/blog/:type/:name/"
-  #books:
-  #  enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
+#books:
+#  enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
 #display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
 #display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
@@ -344,31 +344,31 @@ external_links:
   rel: external nofollow noopener
   target: _blank
   exclude:
-  - bin/
-  - CONTRIBUTING.md
-  - CUSTOMIZE.md
-  - Dockerfile
-  - docker-compose.yml
-  - docker-compose-slim.yml
-  - FAQ.md
-  - Gemfile
-  - Gemfile.lock
-  - INSTALL.md
-  - LICENSE
-  - lighthouse_results/
-  - package.json
-  - package-lock.json
-  - _pages/about_einstein.md
-  - purgecss.config.js
-  - README.md
-  - readme_preview/
-  - vendor
-  # Add these new exclusions:
-  - _projects/
-  - _pages/projects.md
-  - _pages/repositories.md
-  - _pages/dropdown.md
-  - _data/repositories.yml
+    - bin/
+    - CONTRIBUTING.md
+    - CUSTOMIZE.md
+    - Dockerfile
+    - docker-compose.yml
+    - docker-compose-slim.yml
+    - FAQ.md
+    - Gemfile
+    - Gemfile.lock
+    - INSTALL.md
+    - LICENSE
+    - lighthouse_results/
+    - package.json
+    - package-lock.json
+    - _pages/about_einstein.md
+    - purgecss.config.js
+    - README.md
+    - readme_preview/
+    - vendor
+    # Add these new exclusions:
+    - _projects/
+    - _pages/projects.md
+    - _pages/repositories.md
+    - _pages/dropdown.md
+    - _data/repositories.yml
 
 # -----------------------------------------------------------------------------
 # Responsive WebP Images

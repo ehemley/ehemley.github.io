@@ -8,23 +8,20 @@ nav_order: 3
 ---
 
 <style>
-.blog-posts p {
-  font-size: 1.0rem;
-}
+  .blog-posts p {
+    font-size: 1rem;
+  }
 </style>
 
 <div class="blog-posts">
-  {% assign grouped_posts = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
-
-  {% for year in grouped_posts %}
-    <h2>{{ year.name }}</h2>
-    {% for post in year.items %}
-      <p>
-        {{ post.date | date: "%b %d, %Y" }} 
-        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      </p>
-    {% endfor %}
-  {% endfor %}
+  {% assign grouped_posts = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %} {% for year in grouped_posts %}
+  <h2>{{ year.name }}</h2>
+  {% for post in year.items %}
+  <p>
+    {{ post.date | date: "%b %d, %Y" }}
+    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+  </p>
+  {% endfor %} {% endfor %}
 </div>
 
-<hr style="margin-top: 2rem;">
+<hr style="margin-top: 2rem" />
