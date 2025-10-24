@@ -18,7 +18,7 @@ $$
 
 where $$q = e^{2 \pi i \tau}$$, or equivalently $$\Delta(\tau) = (2 \pi i )^{12} \eta(\tau)^{24}$$ where $$\eta$$ is the _Dedekind eta function_. The function $$\Delta$$ is a modular form of weight 12 called the _modular discriminant_.
 
-To understand this geometrically, we can interpret modular forms via the moduli stack of elliptic curves. Let $$\mathcal{M}_{\text{ell}}$$ be the moduli stack of elliptic curves, which can be interpreted as the orbifold quotient of $$\mathfrak{H}$$ by the group $$\text{PSL}_2(\mathbb{Z})$$. Here, we work with the moduli stack with trivial generic stabilizer. Let $$\pi: \mathcal{E} \to \mathcal{M}_{\text{ell}}$$ be the universal curve and define $$\lambda = \pi_* \Omega_{\mathcal{E}/\mathcal{M}_{\text{ell}}}$$. We have the following characterization:
+To understand this geometrically, we can interpret modular forms via the moduli stack of elliptic curves. Let $$\mathcal{M}_{\text{ell}}$$ be the moduli stack of elliptic curves, which can be interpreted as the orbifold quotient of $$\mathfrak{H}$$ by the group $$\text{PSL}_2(\mathbb{Z})$$ (_here, we work with the moduli stack with trivial generic stabilizer_). Let $$\pi: \mathcal{E} \to \mathcal{M}_{\text{ell}}$$ be the universal curve and define $$\lambda = \pi_* \Omega_{\mathcal{E}/\mathcal{M}_{\text{ell}}}$$. We have the following characterization:
 
 **Lemma.** A global section of $$\lambda^{\otimes k}$$ is a weight $$k$$ modular form.
 
@@ -50,7 +50,7 @@ $$
 
 we see that $$\Omega_{\mathcal{M}_{\text{ell}}} \cong \Omega_{\overline{\mathcal{M}}_{\text{ell}}}(\log \infty) = \lambda^{\otimes 2}$$.
 
-This allows us to deduce a special case of the _Harer-Zagier formula_, which relates the orbifold Euler characteristic of the moduli stack of genus $g$ curves with a base point to the special values of the Riemann zeta function: $$ \chi(\mathcal{M}_{g,1}) = \zeta(1-2g)$$.
+This allows us to deduce a special case of the _Harer-Zagier formula_, which relates the orbifold Euler characteristic of the moduli stack of genus $g$ curves with a base point to the special values of the Riemann zeta function: $$ \chi(\mathcal{M}\_{g,1}) = \zeta(1-2g)$$.
 
 **Proposition.** The Euler characteristic $$\chi(\mathcal{M}_{\text{ell}})$$ is equal to $$-\frac{1}{12}$$.
 
