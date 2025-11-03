@@ -18,7 +18,7 @@ $$
 
 where $$q = e^{2 \pi i \tau}$$, or equivalently $$\Delta(\tau) = (2 \pi i )^{12} \eta(\tau)^{24}$$ where $$\eta$$ is the _Dedekind eta function_. The function $$\Delta$$ is a modular form of weight 12 called the _modular discriminant_.
 
-To understand this geometrically, we can interpret modular forms via the moduli stack of elliptic curves. Let $$\mathcal{M}_{\text{ell}}$$ be the moduli stack of elliptic curves, which can be interpreted as the orbifold quotient of $$\mathfrak{H}$$ by the group $$\text{PSL}_2(\mathbb{Z})$$ (_here, we work with the moduli stack with trivial generic stabilizer_). Let $$\pi: \mathcal{E} \to \mathcal{M}_{\text{ell}}$$ be the universal curve and define $$\lambda = \pi_* \Omega_{\mathcal{E}/\mathcal{M}_{\text{ell}}}$$. We have the following characterization:
+To understand this geometrically, we can interpret modular forms via the moduli stack of elliptic curves. Let $$\mathcal{M}_{\text{ell}}$$ be the moduli stack of elliptic curves, which can be interpreted as the orbifold quotient of $$\mathfrak{H}$$ by the group $$\text{SL}_2(\mathbb{Z})$$. Let $$\pi: \mathcal{E} \to \mathcal{M}_{\text{ell}}$$ be the universal curve and define $$\lambda = \pi_* \Omega_{\mathcal{E}/\mathcal{M}_{\text{ell}}}$$. We have the following characterization:
 
 **Lemma.** A global section of $$\lambda^{\otimes k}$$ is a weight $$k$$ modular form.
 
