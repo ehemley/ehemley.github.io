@@ -9,10 +9,12 @@ nav_order: 4
 
 ### upcoming
 
-- **Complex and p-Adic Simpson Correspondence** - November 2025  
-  _Brin Mathematics Research Center_
+- 
 
 ### past
+
+- **Complex and p-Adic Simpson Correspondence** - November 2025  
+  _Brin Mathematics Research Center_
 
 - **Modern Developments in Geometry and Higher Structures** - June 2025  
   _Brin Mathematics Research Center_
