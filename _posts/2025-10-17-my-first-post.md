@@ -16,9 +16,7 @@ $$
 \Delta(\tau) = (2 \pi i)^{12} q \prod_{n=1}^{\infty}\left(1-q^n\right)^{24}
 $$
 
-where $$q = e^{2 \pi i \tau}$$, or equivalently $$\Delta(\tau) = (2 \pi i )^{12} \eta(\tau)^{24}$$ where $$\eta$$ is the _Dedekind eta function_. The function $$\Delta$$ is a modular form of weight 12 called the _modular discriminant_.
-
-To understand this geometrically, we can interpret modular forms via the moduli stack of elliptic curves. Let $$\mathcal{M}_{\text{ell}}$$ be the moduli stack of elliptic curves, which can be interpreted as the orbifold quotient of $$\mathfrak{H}$$ by the group $$\text{SL}_2(\mathbb{Z})$$. Let $$\pi: \mathcal{E} \to \mathcal{M}_{\text{ell}}$$ be the universal curve and define $$\lambda = \pi_* \Omega_{\mathcal{E}/\mathcal{M}_{\text{ell}}}$$. We have the following characterization:
+where $$q = e^{2 \pi i \tau}$$, or equivalently $$\Delta(\tau) = (2 \pi i )^{12} \eta(\tau)^{24}$$ where $$\eta$$ is the _Dedekind eta function_. The function $$\Delta$$ is a modular form of weight 12 called the _modular discriminant_. To understand this geometrically, we can interpret modular forms via the moduli stack of elliptic curves. Let $$\mathcal{M}_{\text{ell}}$$ be the moduli stack of elliptic curves, which can be interpreted as the orbifold quotient of $$\mathfrak{H}$$ by the group $$\text{SL}_2(\mathbb{Z})$$. Let $$\pi: \mathcal{E} \to \mathcal{M}_{\text{ell}}$$ be the universal curve and define $$\lambda = \pi_* \Omega_{\mathcal{E}/\mathcal{M}_{\text{ell}}}$$. We have the following characterization:
 
 **Lemma.** A global section of $$\lambda^{\otimes k}$$ is a weight $$k$$ modular form.
 
@@ -34,9 +32,7 @@ $$
 \deg (\lambda^{\otimes 12}) = \frac{1}{2}
 $$
 
-by the formula $$\deg \mathcal{L} = \sum \deg \mathcal{L}_x/\text{Aut}(x)$$ for a line bundle $$\mathcal{L}$$ on a Deligne-Mumford stack $$X$$. Hence $$\deg \lambda = 1/24$$.
-
-For an elliptic curve $$E$$, the tangent space to the moduli stack at $$E$$ is isomorphic to the first cohomology of $$E$$ with respect to the tangent sheaf,
+by the formula $$\deg \mathcal{L} = \sum \deg \mathcal{L}_x/\text{Aut}(x)$$ for a line bundle $$\mathcal{L}$$ on a Deligne-Mumford stack $$X$$. Hence $$\deg \lambda = 1/24$$. Now, for an elliptic curve $$E$$, the tangent space to the moduli stack at $$E$$ is isomorphic to the first cohomology of $$E$$ with respect to the tangent sheaf,
 
 $$
 T_E \mathcal{M}_{\text{ell}} \cong H^1(E,\mathcal{T}_E)
