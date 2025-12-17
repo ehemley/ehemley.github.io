@@ -1,0 +1,131 @@
+---
+layout: post
+title: The Laumon-Rothstein Fourier Equivalence
+date: 2025-12-15 12:00:00
+description: Duality between de Rham space and universal vector extension
+tags: algebraic-geometry
+---
+
+Let $$A$$ be an abelian variety over a field $$k$$ of characteristic 0, and let $$B \cong A^{\vee}$$ be the dual abelian scheme over $$k$$. In this short post, we explain how the Laumon-Rothstein Fourier equivalence
+
+$$
+\mathrm{D}(\mathscr{D}_A\text{-mod}) \cong \mathrm{D}(\mathrm{QCoh}(B^\natural))
+$$
+
+between quasi-coherent $$\mathscr{D}_A$$-modules and quasi-coherent $$\mathscr{O}_{B^\natural}$$-modules is a manifestation of the duality between the de Rham space $$A_{\mathrm{dR}}$$ and the universal vector extension $$B^\natural$$. I thank Tony Pantev for explaining several aspects of this to me.
+
+## Preliminaries
+
+We will define the category $$\textsf{AlgStk}$$ to be the category of fppf sheaves of $$k$$-algebras taking values in groupoids,
+
+$$
+\textsf{AlgStk} := \mathrm{Shv}_{\mathrm{fppf}}(\textsf{Alg}_k,\textsf{Grpd})
+$$
+
+The category of commutative $$k$$-group stacks is defined to be the subcategory $$\textsf{CGrp} \subseteq \textsf{AlgStk}$$ consisting of commutative group objects. We can define the following duality functor on commutative $$k$$-group stacks; let $$\mathfrak{D}: \textsf{CGrp}^{\mathrm{op}} \to \textsf{CGrp}$$ be the functor
+
+$$
+\mathfrak{D}(\mathcal{G}) := \underline{\mathrm{Map}}_{\textsf{CGrp}}(G,B\mathbb{G}_m)
+$$
+
+Given a commutative $$k$$-group stack $$\mathcal{G}$$, we call $$\mathfrak{D}(\mathcal{G})$$ the _Cartier dual_ to $$\mathcal{G}$$.
+
+**Example.** For an abelian variety $$A$$, $$\mathfrak{D}(A) \cong A^{\vee}$$, the dual abelian variety. If $$\mathbb{Z}$$ is the constant group scheme, then $$\mathfrak{D}(\mathbb{Z}) \cong \mathbb{G}_m$$.
+
+The Cartier duality functor induces a canonical Fourier-Mukai transform. The universal evaluation morphism $$\mathrm{ev}: \mathcal{G} \times \mathfrak{D}(\mathcal{G}) \to B\mathbb{G}_m$$ is equivalent to a $$\mathbb{G}_m$$-torsor $$\mathscr{P}$$ on $$\mathcal{G} \times \mathfrak{D}(\mathcal{G})$$, the _Poincaré sheaf_. This induces an integral transform
+
+$$
+\Phi: \mathrm{D}_{\mathrm{qc}}(\mathcal{G}) \to \mathrm{D}_{\mathrm{qc}}(\mathfrak{D}(\mathcal{G}))
+$$
+
+defined by $$\mathscr{F} \mapsto R \pi_{2*}(\mathscr{P} \otimes^{L} \pi_1^*\mathscr{F})$$ where the maps $$\pi_i$$ are the projections from $$\mathcal{G} \times\mathfrak{D}(\mathcal{G})$$ to the two factors.
+
+Under reasonable assumptions, this is an equivalence of categories. Indeed, we say that $$\mathcal{G}$$ is _very nice_ if smooth locally, $$\mathcal{G}$$ is isomorphic to (i) a finite product of abelian varieties over $$k$$, (ii) finitely generated abelian groups, or (iii) copies of $$B\mathbb{G}_m$$.
+
+**Theorem.** If $$\mathcal{G}$$ and $$\mathfrak{D}(\mathcal{G})$$ are _very nice_, then $$\Phi$$ is an equivalence.
+
+See [Theorem 6.1](https://arxiv.org/pdf/0804.4170) for details.
+
+## The Laumon-Rothstein Fourier transform
+
+Let $$A$$ be an abelian variety over $$k$$ and $$B = \mathfrak{D}(A)$$ be the dual abelian variety. Recall that the _universal vector extension_ is a smooth, commutative $$k$$-group scheme $$B^{\natural}$$ which is an extension
+
+$$
+1 \to \mathbb{V}(\omega_A) \to B^{\natural} \to B \to 1 \tag{∗}
+$$
+
+where $$\mathbb{V}(\omega_A)$$ is the vector group of invariant differentials $$\omega_A = H^0(A,\Omega^1_A)$$. This represents the fppf sheaf $$\mathrm{Sch}_k \to \mathrm{Set}$$ given by
+
+$$
+T \mapsto \{\text{isomorphism classes of degree 0 invertible crystals on } A \times T\}
+$$
+
+Equivalently $$B^\natural\simeq \mathrm{Pic}^\natural(A)$$ is the moduli of degree-$$0$$ line bundles on $$A$$ equipped with an integrable connection.
+
+On the other hand, the de Rham space of $$A$$ is the fppf sheaf with the property
+
+$$
+\mathrm{QCoh}(A_{\mathrm{dR}}) \cong \mathscr{D}_A\text{-mod}
+$$
+
+In particular, this equivalence restricts to an isomorphism $$\mathrm{Pic}^0(A_{\mathrm{dR}}) \cong \mathrm{Pic}^\natural(A)$$. Consequently, $$B^\natural$$ is Cartier dual to the de Rham space; there is a natural isomorphism $$B^{\natural} \cong \mathfrak{D}(A_{\mathrm{dR}})$$.
+
+As a consequence, the abstract Fourier-Mukai equivalence for dual commutative group stacks recovers the Laumon-Rothstein Fourier equivalence
+
+$$
+\mathrm{D}_{\mathrm{qc}}(A_{\mathrm{dR}}) \cong \mathrm{D}_{\mathrm{qc}}(B^{\natural})
+$$
+
+There's an even more refined statement we can make: for an abelian scheme, $$A_{\mathrm{dR}}$$ fits into an exact sequence
+
+$$
+1 \to \widehat{A} \to A \to A_{\mathrm{dR}} \to 1 \tag{†}
+$$
+
+where $$\widehat{A}$$ denotes the formal completion of $$A$$ along the identity section. Applying the duality functor $$\mathfrak{D}$$ to (†), we get an exact sequence
+
+$$
+\to \underline{\mathrm{Map}}_{\textsf{CGrp}}(\widehat{A},\mathbb{G}_m) \to \mathfrak{D}(A_{\mathrm{dR}}) \to \mathfrak{D}(A) \to \mathfrak{D}(\widehat{A}) \to
+$$
+
+analogous to the long exact sequence in cohomology with coefficients in $$\mathbb{G}_m$$.
+
+**Caution.** In defining Cartier duality for formal group schemes, $$\mathbb{G}_m$$ is understood to be the formal completion of $$\mathrm{Spec}\, k[t,t^{-1}]$$ along the identity.
+
+**Lemma.** We have a natural isomorphism
+
+$$
+\underline{\mathrm{Map}}_{\textsf{CGrp}}(\widehat{A},{\mathbb{G}}_m) \cong \mathbb{V}(\omega_A)
+$$
+
+_Proof._ Observe
+
+$$
+\mathrm{Hom}_{\mathrm{grp}}(\widehat{A},\mathbb{G}_m) \cong \mathrm{Hom}_k(\mathrm{Lie}(\widehat{A}),\mathrm{Lie}(\mathbb{G}_m)) \cong \mathrm{Hom}_k(\mathrm{Lie}(A),k)
+$$
+
+and since $$e^* \Omega^1_{A/k} \cong \omega_A$$ ([link, 2.1](https://server.mcm.ac.cn/~zheng/av10/Abelian_Varieties.pdf)), it follows that $$\mathrm{Lie}(A)^{\vee} = \omega_A$$. ∎
+
+Consequently, exact sequences (∗) and (†) are dual to each other up to a shift!
+
+**Remark.** We close with an observation about the relation with the Hodge filtration on $$H^1_{\mathrm{dR}}(A/k)$$. By a standard result of deformation theory,
+
+$$
+\mathrm{Lie}(\mathfrak{D}(X)) = H^1(X,\mathscr{O}_X)
+$$
+
+Thus if we apply the Lie algebra functor to the exact sequence (∗), we obtain an exact sequence
+
+$$
+0 \to \mathrm{Lie}(\mathbb{V}(\omega_A)) \to \mathrm{Lie}(B^\natural) \to \mathrm{Lie}(B) \to 0
+$$
+
+which can be identified with
+
+$$
+0 \to H^0(A,\Omega_{A/k}^1) \to H^1_{\mathrm{dR}}(A/k) \to H^1(A,\mathscr{O}_A) \to 0
+$$
+
+which splits and yields the Hodge filtration on $$H^1_{\mathrm{dR}}(A/k)$$.
+
+<hr style="margin-top: 2rem;">

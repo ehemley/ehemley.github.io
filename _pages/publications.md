@@ -19,6 +19,8 @@ nav_order: 2
 
 ## Notes
 
+- **[Cartier Duality and the Laumon-Rothstein Fourier Transform](../assets/pdf/FM-Duality.pdf)**. Notes on the duality between the de Rham space of an abelian variety and the universal vector extension.
+
 - **[The Gauss-Manin connection via the de Rham space](../assets/pdf/dR.pdf)**. Provides a construction of a canonical flat connection on relative de Rham cohomology from base change for de Rham spaces.
 
 - **[Notes on Spectral Sequences](../assets/pdf/spectral-sequences.pdf)**, for a talk in the [algebraic geometry learning seminar](https://web.sas.upenn.edu/agseminar/). On the construction of the Hypercohomology and Grothendieck spectral sequences, and applications to sheaf cohomology.

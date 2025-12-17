@@ -5,13 +5,13 @@ permalink: /
 #subtitle: <a href='#'> University of Pennsylvania</a>. ehemley@sas.upenn.edu.
 
 profile:
-  align: right
+#  align: right
   #image: IMG_1597.jpg
-  image_circular: false # crops the image to make it circular
-  #  more_info: >
-  #    <p>555 your office number</p>
-  #    <p>123 your address street</p>
-  #    <p>Your City, State 12345</p>
+#  image_circular: false # crops the image to make it circular
+#    more_info: >
+#     <p>DRL 3NC2</p>
+#      <p>123 your address street</p>
+#      <p>Your City, State 12345</p>
 
   #selected_papers: true # includes a list of papers marked as "selected={true}"
   #social: true # includes social icons at the bottom of the page
@@ -22,11 +22,11 @@ profile:
   #  limit: 5 # leave blank to include all the news in the `_news` folder
 
   #latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  #enabled: true
+  #scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  #limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a PhD student in mathematics at The University of Pennsylvania. I'm interested in algebraic geometry.
+I'm a PhD student in mathematics at The University of Pennsylvania. I'm interested in algebraic geometry, particularly non-abelian Hodge theory, the moduli of G-bundles, and interactions with number theory.
 
 I was an undergraduate at The University of Maryland, where I majored in math and also [grew crystals](https://qmc.umd.edu).
