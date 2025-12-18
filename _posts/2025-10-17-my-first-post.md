@@ -46,7 +46,7 @@ $$
 
 we see that $$\Omega_{\mathcal{M}_{\text{ell}}} \cong \Omega_{\overline{\mathcal{M}}_{\text{ell}}}(\log \infty) = \lambda^{\otimes 2}$$.
 
-This allows us to deduce a special case of the _Harer-Zagier formula_, which relates the orbifold Euler characteristic of the moduli stack of genus $g$ curves with a base point to the special values of the Riemann zeta function: $$ \chi(\mathcal{M}_{g,1}) = \zeta(1-2g)$$.
+This allows us to deduce a special case of the _Harer-Zagier formula_, which relates the orbifold Euler characteristic of the moduli stack of genus $g$ curves with a base point to the special values of the Riemann zeta function: $$ \chi(\mathcal{M}\_{g,1}) = \zeta(1-2g)$$.
 
 **Proposition.** The Euler characteristic $$\chi(\mathcal{M}_{\text{ell}})$$ is equal to $$-\frac{1}{12}$$.
 
