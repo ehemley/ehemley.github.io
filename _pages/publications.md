@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-## Publications
+## publications
 
 - **Complex single-site magnetism and magnetotransport in single-crystalline Gd₂AlSi₃**  
   _Ram Kumar_ et al.,
@@ -17,7 +17,7 @@ nav_order: 2
   _E. Hemley_ et al.,
   _APS March Meeting Abstracts_, [2022APS..MARQ70005H](https://ui.adsabs.harvard.edu/abs/2022APS..MARQ70005H/abstract)
 
-## Notes
+## notes
 
 - **[Cartier Duality and the Laumon-Rothstein Fourier Transform](../assets/pdf/FM-duality.pdf)**. Notes on the duality between the de Rham space of an abelian variety and its universal vector extension.
 

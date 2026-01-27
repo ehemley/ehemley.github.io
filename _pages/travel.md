@@ -9,7 +9,7 @@ nav_order: 4
 
 ### upcoming
 
--
+- **
 
 ### past
 
@@ -28,9 +28,8 @@ nav_order: 4
 - **Winter School on New Applications of Mixed Hodge Modules** - January 2024  
   _Simons Center for Geometry and Physics_
 
-<!--
 - **CMS Summer School on Algebraic Geometry** - July 2023
-  *Derived categories, stability conditions, moduli (Technion Institute)* -->
+  *Derived categories, stability conditions, moduli (Technion Institute)* 
 
 - **CMND Thematic Program on Rationality and Hyperbolicity** - June 2023  
   _University of Notre Dame_
