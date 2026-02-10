@@ -30,3 +30,7 @@ profile:
 I'm a PhD student in mathematics at The University of Pennsylvania. I'm interested in algebraic geometry, particularly non-abelian Hodge theory, the moduli of G-bundles, and interactions with number theory.
 
 I was an undergraduate at The University of Maryland, where I majored in math and also [grew crystals](https://qmc.umd.edu).
+
+
+
+I'm currently organizing a [learning seminar](/seminar/) on Hodge atoms and birational invariants.
