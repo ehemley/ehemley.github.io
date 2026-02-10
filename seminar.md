@@ -31,7 +31,7 @@ In a recent work, Katzarkov-Kontsevich-Pantev-Yue Yu introduce a new class of bi
 
 <div style="margin-top: 1.0em;"></div>
 
-The primary means of communication will be through Discord. If interested, please join at [https://discord.gg/9PfmVn46](https://discord.gg/9PfmVn46).
+The primary means of communication will be through Discord. If interested, please contact me to join.
 
 ## References
 

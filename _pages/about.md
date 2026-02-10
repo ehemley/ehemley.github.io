@@ -31,6 +31,7 @@ I'm a PhD student in mathematics at The University of Pennsylvania. I'm interest
 
 I was an undergraduate at The University of Maryland, where I majored in math and also [grew crystals](https://qmc.umd.edu).
 
+- **Email address:** ehemley[at]sas.upenn.edu.
+- My office is DRL 3NC2
 
-
-I'm currently organizing a [learning seminar](/seminar/) on Hodge atoms and birational invariants.
+In spring 2026, I'm organizing a [seminar](/seminar/) on Hodge Atoms.
