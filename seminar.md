@@ -18,16 +18,17 @@ In a recent work, Katzarkov-Kontsevich-Pantev-Yue Yu introduce a new class of bi
 |------|-------|---------|------------|
 | Feb 6 | Introduction | Tony Pantev | Katzarkov et al. (2025) |
 | Feb 13 | Non-commutative Hodge structures | Emerson Hemley | Katzarkov et al. (2008) |
-| Feb 20 | Quantum Cohomology | Frenly Espino | Fulton (1997), Givental (1999) |
-| Feb 27 | Frobenius Manifolds and Euler Vector Fields | | Lee-Pandharipande (2004), §1.1–1.2 |
-| Mar 6 | Non-Archimedean geometry | Colton Griffin| |
-| Mar 20 | F-bundles I|Anson Law| Katzarkov et al. (2025), §3 |
-| Mar 27 | F-bundles II|Emerson Hemley| Katzarkov et al. (2025), §3 |
-| Apr 3 | Decomposition theorems | | Katzarkov et al. (2025), §4 |
+| Feb 20 | Quantum cohomology | Frenly Espino | Fulton (1997), Givental (1999) |
+| Feb 27 |  Non-Archimedean geometry | Colton Griffin ||
+| Mar 6 |F-bundles I|Anson Law| Katzarkov et al. (2025), §3 |
+| Mar 13 | Spring Break | | |
+| Mar 20 | F-bundles II|Emerson Hemley| Katzarkov et al. (2025), §3 |
+| Mar 27 | Decomposition theorems| Andres Fernandez Herrero| Katzarkov et al. (2025), §4 |
+| Apr 3 | G-Atoms |?| Katzarkov et al. (2025), §5 |
 | Apr 10 | Hodge Atoms| Avik Chakravarty | Katzarkov et al. (2025), §5 |
-| Apr 17 | G-Atoms | Ana Pavlaković | Katzarkov et al. (2025), §5 |
-| Apr 24 | Motivic aspects | Daebeom Choi | Katzarkov et al. (2025), §5 |
-| May 1 | Obstructions to Rationality | | Katzarkov et al. (2025), §6 |
+| Apr 17 | Motivic aspects | Daebeom Choi | Katzarkov et al. (2025), §5 |
+| Apr 24 |Givental's theorem|?|Lee, Y.-P., & Pandharipande, R. (2004)|
+| May 1 |Irrationality of cubic 4-folds|Ana Pavlaković|Katzarkov et al. (2025), §6 |
 
 <div style="margin-top: 1.0em;"></div>
 
