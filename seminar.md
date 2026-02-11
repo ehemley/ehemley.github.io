@@ -6,7 +6,7 @@ title: Hodge Atoms Learning Seminar
 nav: false
 ---
 
-In a recent work, Katzarkov-Kontsevich-Pantev-Yue Yu introduce a new class of birational invariants called *Hodge atoms* to prove the irrationality of the very general cubic 4-fold. The theory of atoms lies at the intersection of several fields, combining ideas from Hodge theory, Gromov-Witten theory, Homological Mirror Symmetry, and non-Archimedean geometry. In this seminar, we will build up to the study of [Katzarkov et al. 2025](https://arxiv.org/abs/2501.00000) and try to understand the basics of this new theory.
+In a recent work, Katzarkov-Kontsevich-Pantev-Yue Yu introduce a new class of birational invariants called *Hodge atoms* to prove the irrationality of the very general cubic 4-fold. The theory of atoms lies at the intersection of several fields, combining ideas from Hodge theory, Gromov-Witten theory, Homological Mirror Symmetry, and non-Archimedean geometry. In this seminar, we will build up to the study of [[KKPY25]](https://arxiv.org/abs/2508.05105) and try to understand the basics of this new theory.
 
 ## Schedule
 
