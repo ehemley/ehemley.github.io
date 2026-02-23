@@ -29,7 +29,7 @@ nav_order: 4
   _Simons Center for Geometry and Physics_
 
 - **CMS Summer School on Algebraic Geometry** - July 2023
-  *Derived categories, stability conditions, moduli (Technion Institute)* 
+  *_Technion Institute_* 
 
 - **CMND Thematic Program on Rationality and Hyperbolicity** - June 2023  
   _University of Notre Dame_
