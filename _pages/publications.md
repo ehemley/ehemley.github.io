@@ -19,7 +19,8 @@ nav_order: 2
 
 ## notes
 
-- **[Cartier Duality and the Laumon-Rothstein Fourier Transform](../assets/pdf/FM-duality.pdf)**. Notes on the duality between the de Rham space of an abelian variety and its universal vector extension. For a talk in the [Penn graduate algebraic geometry seminar](https://sites.google.com/sas.upenn.edu/upenn-gags/home).
+<!--
+- **[Cartier Duality and the Laumon-Rothstein Fourier Transform](../assets/pdf/FM-duality.pdf)**. Notes on the duality between the de Rham space of an abelian variety and its universal vector extension. For a talk in the [Penn graduate algebraic geometry seminar](https://sites.google.com/sas.upenn.edu/upenn-gags/home).-->
 
 - **[The Gauss-Manin connection via the de Rham space](../assets/pdf/dR.pdf)**. Provides a construction of a canonical flat connection on relative de Rham cohomology from base change for de Rham spaces.
 
