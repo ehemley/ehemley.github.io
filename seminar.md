@@ -22,7 +22,7 @@ In a recent work, Katzarkov-Kontsevich-Pantev-Yue Yu introduce a new class of bi
 | Feb 27 |  Non-Archimedean geometry | Colton Griffin ||
 | Mar 6 |F-bundles I|Anson Law| Katzarkov et al. (2025), §3 |
 | Mar 13 | Spring Break | | |
-| Mar 20 | F-bundles II|Emerson Hemley| Katzarkov et al. (2025), §3 |
+| Mar 20 | The A-Model F-bundle|Emerson Hemley| Katzarkov et al. (2025), §3 |
 | Mar 27 | Decomposition theorems| Andres Fernandez Herrero| Katzarkov et al. (2025), §4 |
 | Apr 3 | Hodge Atoms |Avik Chakravarty | Katzarkov et al. (2025), §5 |
 | Apr 10 | G-Atoms| Tony Pantev | Katzarkov et al. (2025), §5 |
