@@ -25,7 +25,7 @@ In a recent work, Katzarkov-Kontsevich-Pantev-Yue Yu introduce a new class of bi
 | Mar 20 | F-bundles II|Emerson Hemley| Katzarkov et al. (2025), §3 |
 | Mar 27 | Decomposition theorems| Andres Fernandez Herrero| Katzarkov et al. (2025), §4 |
 | Apr 3 | Hodge Atoms |Avik Chakravarty | Katzarkov et al. (2025), §5 |
-| Apr 10 | G-Atoms| ? | Katzarkov et al. (2025), §5 |
+| Apr 10 | G-Atoms| Tony Pantev | Katzarkov et al. (2025), §5 |
 | Apr 17 | Motivic aspects | Daebeom Choi | Katzarkov et al. (2025), §5 |
 | Apr 24 |Givental's theorem|?|Lee, Y.-P., & Pandharipande, R. (2004)|
 | May 1 |Irrationality of cubic 4-folds|Ana Pavlaković|Katzarkov et al. (2025), §6 |
