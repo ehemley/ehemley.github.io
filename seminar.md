@@ -20,7 +20,7 @@ In a recent work, Katzarkov-Kontsevich-Pantev-Yue Yu introduce a new class of bi
 | Feb 13 | Non-commutative Hodge structures | Emerson Hemley | Katzarkov et al. (2008) |
 | Feb 20 | Quantum cohomology | Frenly Espino | Fulton (1997), Givental (1999) |
 | Feb 27 |  Non-Archimedean geometry | Colton Griffin ||
-| Mar 6 |F-bundles I|Anson Law| Katzarkov et al. (2025), §3 |
+| Mar 6 |F-bundles|Anson Law| Katzarkov et al. (2025), §3 |
 | Mar 13 | Spring Break | | |
 | Mar 20 | The A-Model F-bundle|Emerson Hemley| Katzarkov et al. (2025), §3 |
 | Mar 27 | Decomposition theorems| Andres Fernandez Herrero| Katzarkov et al. (2025), §4 |
