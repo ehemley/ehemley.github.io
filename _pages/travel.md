@@ -28,7 +28,7 @@ nav_order: 4
 - **Winter School on New Applications of Mixed Hodge Modules** - January 2024  
   _Simons Center for Geometry and Physics_
 
-- **CMS Summer School on Algebraic Geometry** - July 2023
+- **CMS Summer School on Algebraic Geometry** - July 2023 \
   _Technion Institute_
 
 - **CMND Thematic Program on Rationality and Hyperbolicity** - June 2023  
