@@ -27,7 +27,7 @@ profile:
 #limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a PhD student in mathematics at The University of Pennsylvania. I'm interested in algebraic geometry and interactions with number theory. I was an undergraduate at The University of Maryland, where I majored in math and also [grew crystals](https://qmc.umd.edu).
+I'm a PhD candidate in mathematics at The University of Pennsylvania. I'm interested in algebraic geometry and interactions with number theory. I was an undergraduate at The University of Maryland, where I majored in math and also [grew crystals](https://qmc.umd.edu).
 
 - **Email address:** ehemley[at]sas.upenn.edu.
 - My office is DRL 3NC2.
