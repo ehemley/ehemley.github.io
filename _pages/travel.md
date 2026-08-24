@@ -4,12 +4,13 @@ permalink: /travel/
 title: travel
 description:
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 
 ### upcoming
 
-- **
+- **Simons School on Moduli of Curves, Abelian Varieties and K3 Surfaces** - August 2026  
+  _Erdős Center, Alfréd Rényi Institute of Mathematics_
 
 ### past
 

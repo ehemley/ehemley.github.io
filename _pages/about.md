@@ -9,7 +9,7 @@ profile:
 #image: IMG_1597.jpg
 #  image_circular: false # crops the image to make it circular
 #    more_info: >
-#     <p>DRL 3NC2</p>
+#     <p>DRL 3N2C</p>
 #      <p>123 your address street</p>
 #      <p>Your City, State 12345</p>
 
@@ -30,6 +30,6 @@ profile:
 I'm a PhD candidate in mathematics at The University of Pennsylvania. I'm interested in algebraic geometry and interactions with number theory. I was an undergraduate at The University of Maryland, where I majored in math and also [grew crystals](https://qmc.umd.edu).
 
 - **Email address:** ehemley[at]sas.upenn.edu.
-- My office is DRL 3NC2.
+- My office is DRL 3N2C.
 
-In spring 2026, I'm organizing a [seminar](/seminar/) on Hodge Atoms.
+In spring 2026, I organized a [seminar](/seminar/) on Hodge Atoms.
