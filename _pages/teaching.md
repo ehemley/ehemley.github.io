@@ -7,8 +7,8 @@ nav: true
 nav_order: 4
 ---
 
+I am a head TA at Penn.
+
 - In Fall 2026, I am a TA for math 2200 (linear algebra), taught by Davi Maximo.
 
-- In Spring 2026, I was a TA for math 2600 (honors calculus), taught by Herman Gluck.
-
-- In Fall 2025, I was a TA for math 1610 (honors calculus).
+- In 2025–26, I was a TA for the year-long honors calculus sequence (math 1610 and 2600), taught by Herman Gluck.

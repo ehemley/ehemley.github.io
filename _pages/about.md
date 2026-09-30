@@ -5,9 +5,9 @@ permalink: /
 #subtitle: <a href='#'> University of Pennsylvania</a>. ehemley@sas.upenn.edu.
 
 profile:
-#  align: right
-#image: IMG_1597.jpg
-#  image_circular: false # crops the image to make it circular
+  align: right
+  image: emerson.jpg
+  image_circular: false # crops the image to make it circular
 #    more_info: >
 #     <p>DRL 3N2C</p>
 #      <p>123 your address street</p>
@@ -27,7 +27,7 @@ profile:
 #limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a PhD candidate in mathematics at The University of Pennsylvania. I'm interested in algebraic geometry and interactions with number theory. I was an undergraduate at The University of Maryland, where I majored in math and also [grew crystals](https://qmc.umd.edu).
+I'm a PhD candidate in mathematics at The University of Pennsylvania. I'm interested in algebraic geometry, particularly non-abelian Hodge theory. I was an undergraduate at The University of Maryland, where I majored in math and also [grew crystals](https://qmc.umd.edu).
 
 - **Email address:** ehemley[at]sas.upenn.edu.
 - My office is DRL 3N2C.
