@@ -5,9 +5,9 @@ permalink: /
 #subtitle: <a href='#'> University of Pennsylvania</a>. ehemley@sas.upenn.edu.
 
 profile:
-  align: right
-  image: emerson.jpg
-  image_circular: false # crops the image to make it circular
+#  align: right
+#image: IMG_1597.jpg
+#  image_circular: false # crops the image to make it circular
 #    more_info: >
 #     <p>DRL 3N2C</p>
 #      <p>123 your address street</p>
