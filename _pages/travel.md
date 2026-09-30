@@ -9,10 +9,10 @@ nav_order: 5
 
 ### upcoming
 
+### past
+
 - **Simons School on Moduli of Curves, Abelian Varieties and K3 Surfaces** - August 2026  
   _Erdős Center, Alfréd Rényi Institute of Mathematics_
-
-### past
 
 - **Complex and p-Adic Simpson Correspondence** - November 2025  
   _Brin Mathematics Research Center_
