@@ -9,6 +9,9 @@ Built with the [al-folio](https://github.com/alshedivat/al-folio) Jekyll theme.
   and publishes it to the `gh-pages` branch. The live site updates a few minutes later.
 - Never edit the `gh-pages` branch directly.
 - Check a deploy with `gh run list --workflow=deploy.yml --limit 3`.
+- The theme's Prettier and `broken-links.yml` workflows were removed at the owner's
+  request (they failed on every push). Live-site link checking still runs via
+  `broken-links-site.yml`.
 
 ## Workflow the owner wants
 
@@ -33,7 +36,7 @@ Keep edits small and in the existing style. Don't touch theme internals (`_layou
 | Seminar page | `seminar.md` (repo root) | `/seminar/`, not in the navbar (`nav: false`). Linked from about page. Has a schedule table. |
 | Blog posts | `_posts/YYYY-MM-DD-slug.md` | Use LaTeX with `$$...$$` (kramdown/MathJax), for both inline and display math. |
 | News items | `_news/` | Currently unused template items; news is off on the homepage. |
-| Travel | `_pages/travel.md` | Hidden from navbar (`nav: false`). |
+| Travel | `_pages/travel.md` | Deliberately hidden from navbar (`nav: false`); owner reaches it at `/travel/` and may re-enable later. Keep it hidden unless asked. |
 | Social links | `_data/socials.yml` | |
 | Site settings, name | `_config.yml` | |
 | Images | `assets/img/` | `prof_pic.jpg` is the profile photo slot (currently disabled in about.md). |
