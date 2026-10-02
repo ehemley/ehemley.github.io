@@ -36,13 +36,13 @@ Keep edits small and in the existing style. Don't touch theme internals (`_layou
 | Seminar page | `seminar.md` (repo root) | `/seminar/`, not in the navbar (`nav: false`). Linked from about page. Has a schedule table. |
 | Blog posts | `_posts/YYYY-MM-DD-slug.md` | Use LaTeX with `$$...$$` (kramdown/MathJax), for both inline and display math. |
 | News items | `_news/` | Currently unused template items; news is off on the homepage. |
-| Travel | `_pages/travel.md` | Deliberately hidden from navbar (`nav: false`); owner reaches it at `/travel/` and may re-enable later. Keep it hidden unless asked. |
+| Travel | `_pages/travel.md` | In the navbar (`nav: true`). Two sections: `### upcoming` and `### past`, newest first. |
 | Social links | `_data/socials.yml` | |
 | Site settings, name | `_config.yml` | |
 | Images | `assets/img/` | `prof_pic.jpg` is the profile photo slot (currently disabled in about.md). |
 
 Navbar: pages with `nav: true` appear, ordered by `nav_order`
-(writing = 2, teaching = 4).
+(writing = 2, teaching = 4, travel = 5).
 
 `_bibliography/papers.bib` still holds the template placeholder entry and is not
 used by the writing page.

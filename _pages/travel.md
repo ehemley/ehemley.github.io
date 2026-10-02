@@ -3,7 +3,7 @@ layout: page
 permalink: /travel/
 title: travel
 description:
-nav: false
+nav: true
 nav_order: 5
 ---
 
